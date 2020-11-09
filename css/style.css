@@ -33,6 +33,7 @@
 .row-header{
 
     margin-top: 20%;
+    justify-content: center;
 }
 
 .h1_header{
@@ -56,9 +57,11 @@
 
 }
 
-.btn, .btn-secondary{
+.btn {
 
     margin-top: 20%;
-    color: rgb(92, 57, 1);
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+    font-weight: bold;
 
 }
