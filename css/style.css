@@ -7,24 +7,29 @@
 }
 
 .header{
-
+    
     height: 110vh;
     background-image: url("../images/Home_image.png");
     background-size: cover;
     background-position: center;
 }
 
-.navbar-light .navbar-nav .nav-link  {
+.navbar-light .navbar-nav .nav-link {
 
     color: rgb(0, 0, 0);
     font-size: 22px;
     font-weight: bold;
-    margin-right: 20px;
-    margin-top: 15px;
-    text-shadow: 2px 2px 4px #ffffff;
 
+    margin-top: 5px;
+    text-shadow: 2px 2px 4px #ffffff;
 }
 
+.navbar-nav{
+
+    margin-right: 5%;
+    
+
+}
 .row-header{
 
     margin-top: 20%;
@@ -37,8 +42,8 @@
     font-size: 500%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-shadow: 2px 2px 4px #ffffff;
-
 }
+
 
 .h6_header{
 
@@ -51,8 +56,9 @@
 
 }
 
-.btn, .btn-light{
+.btn, .btn-secondary{
 
-    margin-top: 10%;
+    margin-top: 20%;
+    color: rgb(92, 57, 1);
 
 }
