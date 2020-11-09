@@ -65,3 +65,17 @@
     font-weight: bold;
 
 }
+
+.section-1{
+
+    padding: 5vmin 0;
+}
+
+.section-1.row.col-md-6.pray, img{
+
+    opacity: 0.8 ;
+    width: 80%;
+    border-radius: 1em;
+
+
+}
